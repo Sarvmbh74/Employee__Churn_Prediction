@@ -47,15 +47,4 @@ employee_churn_prediction/
 git clone https://github.com/yourusername/employee_churn_prediction.git
 cd employee_churn_prediction
 
-| Feature                 | Type     | Description                        |
-| ----------------------- | -------- | ---------------------------------- |
-| satisfaction\_level     | Float    | Employee satisfaction (0.0 to 1.0) |
-| last\_evaluation        | Float    | Last evaluation score (0.0 to 1.0) |
-| number\_project         | Integer  | Number of projects worked on       |
-| average\_montly\_hours  | Integer  | Monthly average working hours      |
-| time\_spend\_company    | Integer  | Years spent in the company         |
-| Work\_accident          | 0 or 1   | Whether they had a work accident   |
-| promotion\_last\_5years | 0 or 1   | Whether they got promoted          |
-| departments             | Category | Department (sales, IT, etc.)       |
-| salary                  | Category | Salary level (low, medium, high)   |
 
