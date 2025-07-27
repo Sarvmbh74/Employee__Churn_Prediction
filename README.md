@@ -5,6 +5,8 @@ https://employeechurnprediction-w6rdzewlcgmgmyhdfhjgwm.streamlit.app/
 
 This is a **Streamlit web application** that predicts whether an employee is likely to **stay** or **leave** the company based on input features such as satisfaction level, number of projects, and more.
 
+1668253607858.png
+
 ---
 
 ## 🚀 Features
